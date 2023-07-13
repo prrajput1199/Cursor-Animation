@@ -13,14 +13,14 @@ body{
     cursor: none;
 }
 
-.main{
+.heading{
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.main h1{
+.heading h1{
     color: aqua;
     font-size: 65px;
 }
